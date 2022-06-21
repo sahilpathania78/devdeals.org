@@ -1,6 +1,6 @@
 # [devdeals.org](https://devdeals.org)
 
-Developers and Open Source authors now have so many services available, with a wide range of free tiers, discounts and promtions. In addition, many startups have access to additional deals from platforms such as [Brex](https://brex.com), [Carta](https://carta.com), [Product Hunt](https://producthunt.com), [Ramp](https://ramp.com),and [Segment](https://segment.com).
+Developers and Open Source authors now have so many services available, with a wide range of free tiers, discounts and promtions. In addition, many startups have access to additional deals from platforms such as [Brex](https://brex.com), [Carta](https://carta.com), [Product Hunt](https://producthunt.com), [Ramp](https://ramp.com), and [Segment](https://segment.com).
 
 This is a list of software (SaaS, PaaS, IaaS, etc.) and other offerings that have deals for developers. Ideally, over time, all these deals will be proprietary with the code devdeals.
 
