@@ -48,3 +48,7 @@ Table of Contents
    * [Visitor Session Recording](#visitor-session-recording)
    * [Web Hosting](#web-hosting)
    * [Other Deals](#other-deals)
+
+## Design and UI
+
+  * [Wix](https://wix.com) - WYSIWYG web site builder with animations and website hosting. 20% off with PINTEREST20.
