@@ -52,3 +52,7 @@ Table of Contents
 ## Design and UI
 
   * [Wix](https://wix.com) - WYSIWYG web site builder with animations and website hosting. 20% off with ```PINTEREST20```.
+
+## Messaging and Streaming
+
+  * [Slack](https://slack.com/promo/offer?remote_promo=devdeals) - Messaging program for the workplace. 30% off 12 months of Pro or Business+ plan with ```devdeals```.
