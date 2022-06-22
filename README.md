@@ -49,7 +49,7 @@ Table of Contents
 
 ## Major Cloud Providers
   * [Snowflake](https://www.snowflake.com/snowflake-for-startups/) - Cloud-based data storage and analytics service. $5,000 in credits with ```DEVDEALS```.
-  * [WPEngine](https://wpengine.com/more/specialoffer/?coupon=wpe3free) - WordPress hosting for more than 1.5M websites. 3 months free on annual plans with ```WP3FREE```.
+  * [WPEngine](https://wpengine.com/more/specialoffer/?coupon=wpe3free) - WordPress hosting for 1.5M+ websites. 3 months free on annual plans with ```WP3FREE```.
 
 
 ## Design and UI
@@ -58,7 +58,7 @@ Table of Contents
 
 ## Messaging and Streaming
 
-  * [Slack](https://slack.com/promo/offer?remote_promo=devdeals) - Messaging program for the workplace. 30% off 12 months of Pro or Business+ plan with ```DEVDEALS```.
+  * [Slack](https://slack.com/promo/offer?remote_promo=devdeals) - Messaging program for the workplace. 30% off a year of Pro or Business+ with ```DEVDEALS```.
 
 ## Other Deals
   * [OpenPhone](https://my.openphone.com/coupon/BREX) - Modern business phone for startups and small businesses. 20% with ```BREX```.
