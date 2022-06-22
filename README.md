@@ -50,7 +50,7 @@ Table of Contents
    * [Other Deals](#other-deals)
 
 ## Major Cloud Providers
-  * [WPEngine](https://wpengine.com/more/specialoffer/?coupon=wpe3free)) - Reliable WordPress hosting for more than 1.5M websites.  3 months free on annual plans with ```WP3FREE```.
+  * [WPEngine](https://wpengine.com/more/specialoffer/?coupon=wpe3free) - Reliable WordPress hosting for more than 1.5M websites.  3 months free on annual plans with ```WP3FREE```.
 
 
 ## Design and UI
