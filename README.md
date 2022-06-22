@@ -28,6 +28,7 @@ Table of Contents
    * [Font](#font)
    * [Forms](#forms)
    * [Game Development](#game-development)
+   * [HRIS](#human-resources-information-systems)
    * [IaaS](#iaas)
    * [IDE and Code Editing](#ide-and-code-editing)
    * [Issue Tracking and Project Management](#issue-tracking-and-project-management)
@@ -55,6 +56,12 @@ Table of Contents
 ## Design and UI
 
   * [Wix](https://wix.com) - Web site builder with animations and website hosting. 20% off with ```PINTEREST20```.
+
+## Human Resources Information Systems
+
+  * [Gusto](https://gusto.com/go/bd/brex?utm_source=devdeals&utm_source=devdeals&utm_campaign=rewards) - Payroll and HR platform. 50% off for 12 months with ```BREX```.
+
+
 
 ## Messaging and Streaming
 
