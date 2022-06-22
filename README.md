@@ -50,7 +50,7 @@ Table of Contents
    * [Other Deals](#other-deals)
 
 ## Major Cloud Providers
-  * [Snowflake](https://www.snowflake.com/snowflake-for-startups/) - Cloud-based data storage and analytics service. $5,000 in credits with ```DEVDEALS``` (use link).
+  * [Snowflake](https://www.snowflake.com/snowflake-for-startups/) - Cloud-based data storage and analytics service. $5,000 in credits with ```DEVDEALS``` ([link](https://www.snowflake.com/snowflake-for-startups/)).
   * [WPEngine](https://wpengine.com/more/specialoffer/?coupon=wpe3free) - Reliable WordPress hosting for more than 1.5M websites.  3 months free on annual plans with ```WP3FREE```.
 
 
