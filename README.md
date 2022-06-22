@@ -55,4 +55,4 @@ Table of Contents
 
 ## Messaging and Streaming
 
-  * [Slack](https://slack.com/promo/offer?remote_promo=devdeals) - Messaging program for the workplace. 30% off 12 months of Pro or Business+ plan with ```devdeals```.
+  * [Slack](https://slack.com/promo/offer?remote_promo=devdeals) - Messaging program for the workplace. 30% off 12 months of Pro or Business+ plan with ```DEVDEALS```.
