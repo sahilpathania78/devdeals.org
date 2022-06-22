@@ -8,8 +8,6 @@ The scope of this particular list is limited to things that developers and techn
 
 This repo accepts Pull Requests. You too can help by sending [Pull Requests](https://github.com/devdeals/devdeals) to add more services or by remove ones whose offerings have changed or been retired.
 
-[![Track Awesome List](https://www.trackawesomelist.com/badge.svg)](https://www.trackawesomelist.com/devdeals/devdeals)
-
 *NOTE:* This list is only for as-a-Service offerings, not for self-hosted software. For a service to be eligible it has to have a comepelling deal (ie, discount, etc) and not just a free trial.
 
 Table of Contents
