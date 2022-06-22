@@ -49,6 +49,10 @@ Table of Contents
    * [Web Hosting](#web-hosting)
    * [Other Deals](#other-deals)
 
+## Major Cloud Providers
+  * [WPEngine]([https://wpengine.com](https://wpengine.com/more/specialoffer/?coupon=wpe3free)) - Reliable WordPress hosting for more than 1.5M websites.  3 months free on annual plans with ```WP3FREE```.
+
+
 ## Design and UI
 
   * [Wix](https://wix.com) - WYSIWYG web site builder with animations and website hosting. 20% off with ```PINTEREST20```.
