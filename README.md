@@ -56,7 +56,7 @@ Table of Contents
 
 ## Design and UI
 
-  * [Wix](https://wix.com) - WYSIWYG web site builder with animations and website hosting. 20% off with ```PINTEREST20```.
+  * [Wix](https://wix.com) - Web site builder with animations and website hosting. 20% off with ```PINTEREST20```.
 
 ## Messaging and Streaming
 
