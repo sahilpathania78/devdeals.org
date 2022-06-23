@@ -1,8 +1,10 @@
-# [devdeals.org](https://devdeals.org)   [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
+# [devdeals.org](https://devdeals.org)
 
 Developers and open source authors now have so many services available, with a range of free tiers, discounts and promotions. Startups also have access to deals from [Brex](https://brex.com), [Carta](https://carta.com), [Product Hunt](https://producthunt.com), [Ramp](https://ramp.com), [Segment](https://segment.com), and [Stripe](https://stripe.com/en-de/corporate-card). However, there is no open source and free list of the best deals.
 
 This is a definitive list of software (SaaS, PaaS, IaaS, etc.) with **deals for developers**. All deals should be the best available and, over time, propreitary to this repo with the code ```DEVDEALS```.
+
+[![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
 
 The scope of this list is limited to things that developers and technical entreprenuers (full stack developers, startup founders, etc.) would find useful. There are a countless numbers of services out there so please don't be offended if we reject your contribution.
 
