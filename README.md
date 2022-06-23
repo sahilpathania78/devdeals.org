@@ -1,4 +1,4 @@
-# [devdeals.org](https://devdeals.org)
+# [devdeals.org](https://devdeals.org) [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
 
 Developers and open source authors now have so many services available, with a range of free tiers, discounts and promotions. Startups also have access to deals from [Brex](https://brex.com), [Carta](https://carta.com), [Product Hunt](https://producthunt.com), [Ramp](https://ramp.com), [Segment](https://segment.com), and [Stripe](https://stripe.com/en-de/corporate-card). However, there is no open source and free list of the best deals.
 
