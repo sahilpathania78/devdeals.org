@@ -1,12 +1,12 @@
 # [devdeals.org](https://devdeals.org)
 
-Developers and open source authors now have so many services available, with a wide range of free tiers, discounts and promotions. In addition, many startups now have access to deals from platforms with startup programs such as [Brex](https://brex.com), [Carta](https://carta.com), [Product Hunt](https://producthunt.com), [Ramp](https://ramp.com), [Segment](https://segment.com), and [Stripe](https://stripe.com/en-de/corporate-card). However, there is no definitive master list.
+Developers and open source authors now have so many services available, with a range of free tiers, discounts and promotions. Startups also have access to deals from [Brex](https://brex.com), [Carta](https://carta.com), [Product Hunt](https://producthunt.com), [Ramp](https://ramp.com), [Segment](https://segment.com), and [Stripe](https://stripe.com/en-de/corporate-card). However, there is no open source and free list of the best deals.
 
-This is a list of software (SaaS, PaaS, IaaS, etc.) and other offerings that have **deals for developers**. All deals listed here will be the best available to any developer and, over time, propreitary to this repo with the code ```DEVDEALS```.
+This is a definitive list of software (SaaS, PaaS, IaaS, etc.) with **deals for developers**. All deals should be the best available and, over time, propreitary to this repo with the code ```DEVDEALS```.
 
-The scope of this particular list is limited to things that developers and technical entreprenuers (full stack developers, startup founders, etc.) would find useful. There are countless numbers of services out there so we will do our best to stay on topic. Of course, this isn't a firm line, but please don't be offended if we reject your contribution.
+The scope of this list is limited to things that developers and technical entreprenuers (full stack developers, startup founders, etc.) would find useful. There are a countless numbers of services out there so please don't be offended if we reject your contribution.
 
-This repo accepts Pull Requests. You too can help by sending [Pull Requests](https://github.com/devdeals/devdeals) to add more services or by remove ones whose offerings have changed or been retired.
+This repo accepts [Pull Requests](https://github.com/devdeals/devdeals) so please send them to add more services (or by remove ones whose offerings have changed).
 
 *NOTE:* This list is only for as-a-Service offerings, not for self-hosted software. For a service to be eligible it has to have a comepelling deal (ie, discount, etc) and not just a free trial.
 
