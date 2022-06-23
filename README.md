@@ -4,6 +4,8 @@ Developers and open source authors now have so many services available, with a r
 
 This is a definitive list of software (SaaS, PaaS, IaaS, etc.) with **deals for developers**. All deals should be the best available and, over time, propreitary to this repo with the code ```DEVDEALS```.
 
+[![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
+
 The scope of this list is limited to things that developers and technical entreprenuers (full stack developers, startup founders, etc.) would find useful. There are a countless numbers of services out there so please don't be offended if we reject your contribution.
 
 This repo accepts [Pull Requests](https://github.com/devdeals/devdeals) so please send them to add more services (or by remove ones whose offerings have changed).
