@@ -2,7 +2,7 @@
 
 Developers and open source authors now have so many services available, with a wide range of free tiers, discounts and promotions. In addition, many startups now have access to deals from platforms with startup programs such as [Brex](https://brex.com), [Carta](https://carta.com), [Product Hunt](https://producthunt.com), [Ramp](https://ramp.com), [Segment](https://segment.com), and [Stripe](https://stripe.com/en-de/corporate-card).
 
-This is a list of software (SaaS, PaaS, IaaS, etc.) and other offerings that have **deals for developers**. Ideally, all deals will be the best available and propreitary to this repo with the code ```DEVDEALS```.
+This is a list of software (SaaS, PaaS, IaaS, etc.) and other offerings that have **deals for developers**. All deals listed here will be the best available to any developer and, over time, propreitary to this repo with the code ```DEVDEALS```.
 
 The scope of this particular list is limited to things that developers and technical entreprenuers (full stack developers, startup founders, etc.) would find useful. There are countless numbers of services out there so we will do our best to stay on topic. Of course, this isn't a firm line, but please don't be offended if we reject your contribution.
 
