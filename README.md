@@ -37,6 +37,7 @@ Table of Contents
    * [Miscellaneous](#miscellaneous)
    * [Monitoring](#monitoring)
    * [PaaS](#paas)
+   * [Password Management](#password-management)
    * [Payment and Billing Integration](#payment-and-billing-integration)
    * [Search](#search)
    * [Security and PKI](#security-and-pki)
@@ -61,11 +62,13 @@ Table of Contents
 
   * [Gusto](https://gusto.com/go/bd/brex?utm_source=devdeals&utm_source=devdeals&utm_campaign=rewards) - Payroll and HR platform. 50% off for 12 months with ```BREX```.
 
-
-
 ## Messaging and Streaming
 
   * [Slack](https://slack.com/promo/offer?remote_promo=devdeals) - Messaging program for the workplace. 30% off a year of Pro or Business+ with ```DEVDEALS```.
+
+## Password Management
+
+  * [1password](https://start.1password.com/sign-up/team?c=SECRET2021) - Password manager for families and businesses.  50% off teams with ```SECRET2021```.
 
 ## Security and PKI
 
