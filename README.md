@@ -75,5 +75,6 @@ Table of Contents
   * [Stytch](https://2fg5qsh42x8.typeform.com/to/hTj0bAL3?utm_source=partnership&utm_medium=referral&utm_campaign=devdeals) -  User infrastructure + passwordless authentication.  $10k in credits with ```DEVDEALS```.
 
 ## Other Deals
+  * [Mux](https://www.mux.com/startups) - API for building video experiences. $2000 credits on Mux with ```DEVDEALS```.
   * [OpenPhone](https://my.openphone.com/coupon/BREX) - Modern business phone for startups and small businesses. 20% with ```BREX```.
   * [Retool](https://retool.typeform.com/to/qGcaOOHW#partnercode=devdeals&partnername=devdeals) - Visual programming for internal tools. $5500 in credits with ```DEVDEALS```.
