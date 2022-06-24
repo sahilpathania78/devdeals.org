@@ -1,6 +1,6 @@
 # devdeals.org - deals for developers
 
-Developers and open source authors now have so many services available, with a range of free tiers, discounts and promotions, and have access to deals from [Brex](https://brex.com), [Product Hunt](https://producthunt.com), [Segment](https://segment.com), [Stripe](https://stripe.com/en-de/corporate-card) and more. However, there is no open source and accessible list of all the best deals.
+Developers and open source authors now have so many services available, with a range of free tiers, discounts and promotions, and have access to deals from [Brex](https://brex.com), [Product Hunt](https://producthunt.com), [Segment](https://segment.com), [Stripe](https://stripe.com/en-de/corporate-card) and more. However, there is no open source and accessible list of the best deals.
 
 This is a definitive list of software (SaaS, PaaS, IaaS, hosting, etc.) with **deals for developers**. All deals should be the best available and, over time, proprietary to this repo with the code ```DEVDEALS```.
 
