@@ -1,4 +1,4 @@
-# devdeals.org
+# [devdeals.org](https://devdeals.org)
 
 Developers and open source authors now have so many services available, with a range of free tiers, discounts and promotions, and have access to deals from [Brex](https://brex.com), [Product Hunt](https://producthunt.com), [Segment](https://segment.com), [Stripe](https://stripe.com/en-de/corporate-card) and more. However, there is no open source and accessible list of the best deals.
 
