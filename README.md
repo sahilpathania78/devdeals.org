@@ -14,7 +14,7 @@ This repo accepts [Pull Requests](https://github.com/devdeals/devdeals) so pleas
 
 Table of Contents
 =================
-   * [Popular Deals](#Popular-Deals)
+   * [Premiums Deals](Premium-Deals)
    * [Analytics, Events and Statistics](#Analytics-Events-and-Statistics)
    * [Cloud Services](#Cloud-Services)
    * [Communications & productivity](#Communications-productivity)
@@ -22,29 +22,20 @@ Table of Contents
    * [Crash and Exception Handling](#Crash-and-Exception-Handling)
    * [Design and UI](#Design-and-UI)
    * [Email](#Email)
-   * [Equipment Management](#Equipment-Management)
-   * [Equity Management](#Equity-Management)
    * [Finance, banking, accounting & tax](#Finance-banking-accounting-tax)
    * [Forms](#Forms)
-   * [Health & Wellness](#Health-Wellness)
    * [Hiring, HR, benefits & payroll](#Hiring-HR-benefits-payroll)
-   * [Legal](#Legal)
-   * [Lifestyle](#Lifestyle)
    * [Marketing, CRM & Support](#Marketing-CRM-Support)
    * [Miscellaneous](#Miscellaneous)
    * [Monitoring](#Monitoring)
-   * [No-code](#No-code)
-   * [Operations](#Operations)
    * [Password Management](#Password-Management)
    * [Payment and Billing Integration](#Payment-and-Billing-Integration)
    * [Product Development](#Product-Development)
    * [SaaS tools and Services](#SaaS-tools-and-Services)
-   * [Sales](#Sales)
    * [Search](#Search)
    * [Security & compliance](#Security-compliance)
    * [Storage and Media Processing](#Storage-and-Media-Processing)
    * [Tools for Teams and Collaboration](#Tools-for-Teams-and-Collaboration)
-   * [Web development](#Web-development)
 
 ## Premium Deals
   * [Airtable](http://airtable.com/cartastartupstack) - Create apps that perfectly fit your team's needs. $2,000 Airtable credit with ```CARTA```.
