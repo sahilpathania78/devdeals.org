@@ -51,6 +51,16 @@ Table of Contents
    * [Web Hosting](#web-hosting)
    * [Other Deals](#other-deals)
 
+  * [Amplitude](https://amplitude.com/startups) - Product intelligence platform12 months free on Growth plan with ```DEVDEALS```.
+  * [Howuku](https://howuku.com/?utm_source=joinsecret) - All-in-one platform to understand your website50% off for 12 months with ```JOINSECRET.```.
+  * [Mixpanel](https://mixpanel.com/startups/?utm_source=devdeals) - Product analytics$50,000 in credits with ```DEVDEALS```.
+  * [Moesif](https://www.moesif.com/wrap/onboard/role/?utm_source=joinsecret) - Analysis tool for your APIs50% off for 3 months for the plan Grow with ```JOINSECRETGROW2```.
+  * [Segment](https://airtable.com/shrLP3GSZnxt1WT2v?prefill_Partner%20Code=letsdeel.com) - Customer data platform$50K in Segment credits + more with ```DEVDEALS```.
+  * [AWS Activate](https://aws.amazon.com/activate/) - Cloud computing servicesReceive $5k, $25k, or $100k in credits  with ```DEVDEALS```.
+  * [Cloudways](https://www.cloudways.com/en/?id=499461) - Cloud hosting service30% off for 3 months with ```DEVDEALS```.
+![image](https://user-images.githubusercontent.com/61061087/176337918-3763779e-496a-4df6-ba96-6b6f359ba2ff.png)
+
+
 ## Major Cloud Providers
   * [Snowflake](https://www.snowflake.com/snowflake-for-startups/) - Cloud-based data storage and analytics service. $5,000 in credits with ```DEVDEALS```.
   * [WPEngine](https://wpengine.com/more/specialoffer/?coupon=wpe3free) - WordPress hosting for 1.5M+ websites. 3 months free on annual plans with ```WP3FREE```.
