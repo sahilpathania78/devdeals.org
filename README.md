@@ -14,7 +14,7 @@ This repo accepts [Pull Requests](https://github.com/devdeals/devdeals) so pleas
 
 Table of Contents
 =================
-   * [Premiums Deals](Premium-Deals)
+   * [Premiums Deals](#Premium-Deals)
    * [Analytics, Events and Statistics](#Analytics-Events-and-Statistics)
    * [Cloud Services](#Cloud-Services)
    * [Communications & productivity](#Communications-productivity)
