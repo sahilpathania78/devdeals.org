@@ -36,7 +36,7 @@ Table of Contents
    * [Security & compliance](#Security-compliance)
    * [Storage and Media Processing](#Storage-and-Media-Processing)
    * [Tools for Teams and Collaboration](#Tools-for-Teams-and-Collaboration)
-
+## Premium Deals
   * [Airtable](http://airtable.com/cartastartupstack) - Create apps that perfectly fit your team's needs. $2,000 Airtable credit with ```CARTA```.
   * [AWS Activate](https://aws.amazon.com/activate/) - Cloud computing services. Receive $5k, $25k, or $100k in credits  with ```DEVDEALS```.
   * [Brex](https://www.brex.com/partners/deel/?campaign_id=product) - Spend management software and live support. Up to 50,000 Brex points with ```DEEL```.
@@ -187,6 +187,7 @@ Table of Contents
   * [Notion](https://notionup.typeform.com/to/qYXezfBW) - Notes, tasks, wikis & more. $1,000 in credits off the Notion Team Plan with ```DEVDEALS```.
   * [Slack](http://slack.com/promo/partner?remote_promo=85111e0d) - A messaging program for workspace. 25% off eligible plan upgrades for 12 months with ```DEVDEALS```.
   * [Twist](https://twist.com/) - Team messaging platform. $300 Twist Unlimited Credits with ```DEELPERKS```.
+
 
 
 
