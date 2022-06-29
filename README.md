@@ -149,7 +149,7 @@ Table of Contents
   * [Instatus](https://instatus.com/startups) - Real-time status page creation tool. 1 year free on Pro Plan with ```DEVDEALS```.
   * [New Relic](http://bit.ly/newrelic-startups-carta) - Monitor, debug, and optimize apps and systems. $125k in New Relic One credits with ```DEVDEALS```.
 ## Password Management
-  * [1password](https://start.1password.com/sign-up/team?c=SECRET2021) - Password manager for families and businesses. 50% off teams with ```SECRET2021
+  * [1password](https://start.1password.com/sign-up/team?c=SECRET2021) - Password manager for families and businesses. 50% off teams with ```SECRET2021```.
   * [Auth0](https://autheco.atlassian.net/servicedesk/customer/portal/4/group/9/create/53) - An online authentication and authorization platform. Auth0 free for 1 year with ```DEVDEALS```.
   * [Doppler](https://www.doppler.com/partners/deel) - SecretOps Platform. 3 months free on Standard plan with ```DEEL```.
   * [Stytch](https://2fg5qsh42x8.typeform.com/to/hTj0bAL3?utm_source=partnership&utm_medium=referral&utm_campaign=devdeals) - User infrastructure + passwordless authentication. 3 months free on Standard plan with ```DEVDEALS```.
