@@ -106,7 +106,7 @@ Table of Contents
   * [MainStreet](https://www.mainstreet.com/platform/carta) - Tax solutions. 25% off tax credit processing fees with ```CARTA```.
   * [Mercury](http://mercury.com/partner/deel) - Banking built for startups. $250 when you spend $10K with ```DEEL```.
   * [Pilot](https://pilot.com/partner/carta/) - Financial expertise. 20% off of pilot care or select for six months with ```CARTA```.
-  * [pipe](http://www.pipe.com/carta) - Trading platform. Waived trading fees for the first 18 months with ```CARTA```.
+  * [Pipe](http://www.pipe.com/carta) - Trading platform. Waived trading fees for the first 18 months with ```CARTA```.
   * [Quickbooks](https://quickbooks.grsm.io/deel) - Business and financial management suite. 40% off for 6 months with ```DEEL```.
   * [Ramp](https://ramp.com/partners/deel) - Corporate cards and finance platform. $1000 Amazon Gift Card with ```DEEL```.
   * [Vouch Insurance](https://www.vouch.us/partners/carta?utm_source=partner&utm_medium=perk&utm_campaign=Carta&utm_content=StartupStack) - Insurance for venture backed companies. Save up to 25% on coverage with ```CARTA```.
@@ -116,7 +116,7 @@ Table of Contents
   * [Typeform](https://www.typeform.com/) - Build beautiful, interactive forms. 30% off Professional or Premium with ```LETSDEEL_30OFF```.
 ## Hiring, HR, benefits & payroll
   * [15Five](https://www.15five.com/trial/?utm_medium=referral&utm_source=partner&utm_campaign=devdeals) - Performance management platform. 20% discount with ```DEVDEALS```.
-  * [deel](https://www.letsdeel.com/partners/carta) - Payroll & compliance. 30% off contractors and first employee free for 12 months with ```CARTA```.
+  * [Deel](https://www.letsdeel.com/partners/carta) - Payroll & compliance. 30% off contractors and first employee free for 12 months with ```CARTA```.
   * [Gusto](https://gusto.com/go/bd/brex?utm_source=devdeals&utm_source=devdeals&utm_campaign=rewards) - Payroll and HR platform. 50% off for 12 months with ```BREX```.
   * [Indeed](https://www.indeed.fr/partner/secret_en) - HR management. €100 credits with ```SECRET```.
   * [justworks](https://justworks.com/lp/partner-page-carta/?bdpartner=carta) - Payroll, benefits, HR, and compliance. 1 month free of admin fees & account manager with ```CARTA```.
@@ -124,10 +124,10 @@ Table of Contents
   * [legalpad](http://legalpad.io/partners/carta/) - US visa services. $500 credit for visa and green card services with ```CARTA```.
   * [Namely](https://join.namely.com/namely-carta) - HR, payroll, benefits, and compliance platform. 6 months free Namely Payroll with ```CARTA```.
   * [Panther](https://www.panther.co/partners/carta) - Payroll, benefits, taxes, and local compliance. Save with $20,000 in Panther Credits with ```CARTA```.
-  * [remote](https://remote.com/partners/carta?utm_campaign=partner-carta%20startup%20stack-042021&utm_source=carta&utm_medium=referral&utm_content=carta21) - Payroll, benefits, HR, and compliance. 1st hire free + 2 months free for additional hires with ```CARTA```.
+  * [Remote](https://remote.com/partners/carta?utm_campaign=partner-carta%20startup%20stack-042021&utm_source=carta&utm_medium=referral&utm_content=carta21) - Payroll, benefits, HR, and compliance. 1st hire free + 2 months free for additional hires with ```CARTA```.
   * [Rippling](https://www.rippling.com/request-demo/?utm_medium=technology-partner&utm_source=devdeals&utm_campaign=partner_page_listing&utm_content=6_mo_payroll) - Payroll, Benefits, Computers, Apps and more. 6 months free Rippling payroll with ```DEVDEALS```.
   * [Workable](https://get.workable.com/deel-10?llsd=deel) - Hiring platform for your company or business. 10% off for first year with ```DEEL```.
-  * [zenefits](https://www.zenefits.com/learn/partner/20/?utm_source=partnerreferral&utm_medium=partnerreferral&utm_campaign=devdeals) - Payroll, benefits, HR, time & attendance. Free payroll for 1 year, or 20% off with ```DEVDEALS```.
+  * [Zenefits](https://www.zenefits.com/learn/partner/20/?utm_source=partnerreferral&utm_medium=partnerreferral&utm_campaign=devdeals) - Payroll, benefits, HR, time & attendance. Free payroll for 1 year, or 20% off with ```DEVDEALS```.
   * [Docsend](https://try.docsend.com/secret) - Share & manage documents easily and securely.. 90% off your annual plans with ```SECRET```.
   * [Stripe Atlas](https://atlas.stripe.com/invite/TeRCeS) - Business starter service. 50% off on Stripe Atlas with ```SECRET```.
 ## Marketing, CRM & Support
@@ -188,8 +188,3 @@ Table of Contents
   * [Notion](https://notionup.typeform.com/to/qYXezfBW) - Notes, tasks, wikis & more. $1,000 in credits off the Notion Team Plan with ```DEVDEALS```.
   * [Slack](http://slack.com/promo/partner?remote_promo=85111e0d) - A messaging program for workspace. 25% off eligible plan upgrades for 12 months with ```DEVDEALS```.
   * [Twist](https://twist.com/) - Team messaging platform. $300 Twist Unlimited Credits with ```DEELPERKS```.
-
-
-
-
-
