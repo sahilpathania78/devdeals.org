@@ -56,7 +56,7 @@ Table of Contents
   * [WeWork](https://www.wework.com/info/all-access-partners2?utm_campaign=2021_Global_Partnerships_Deel&utm_medium=partner_mktg&utm_source=deel&utm_content=deel_perks) - Workspace management. 50% off WeWork All Access for 6 months with ```DEEL50```.
 ## Analytics, Events and Statistics
   * [Amplitude](https://amplitude.com/startups) - Product intelligence platform. 12 months free on Growth plan with ```DEVDEALS```.
-  * [Howuku](https://howuku.com/?utm_source=joinsecret) - All-in-one platform to understand your website. 50% off for 12 months with ```JOINSECRET.```.
+  * [Howuku](https://howuku.com/?utm_source=joinsecret) - All-in-one platform to understand your website. 50% off for 12 months with ```JOINSECRET```.
   * [Mixpanel](https://mixpanel.com/startups/?utm_source=devdeals) - Product analytics. $50,000 in credits with ```DEVDEALS```.
   * [Moesif](https://www.moesif.com/wrap/onboard/role/?utm_source=joinsecret) - Analysis tool for your APIs. 50% off for 3 months for the plan Grow with ```JOINSECRETGROW2```.
   * [Segment](https://airtable.com/shrLP3GSZnxt1WT2v?prefill_Partner%20Code=letsdeel.com) - Customer data platform. $50K in Segment credits + more with ```DEVDEALS```.
