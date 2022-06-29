@@ -155,7 +155,7 @@ Table of Contents
   * [Doppler](https://www.doppler.com/partners/deel) - SecretOps Platform. 3 months free on Standard plan with ```DEEL```.
   * [Stytch](https://2fg5qsh42x8.typeform.com/to/hTj0bAL3?utm_source=partnership&utm_medium=referral&utm_campaign=devdeals) - User infrastructure + passwordless authentication. 3 months free on Standard plan with ```DEVDEALS```.
 ## Payment and Billing Integration
-  * [Chargebee](https://www.chargebee.com/partners-signup/) - Billing and subscription management. Free Plan ($300/mo) with $1M rev. or 2 years with ```DEVDEALS```.
+  * [Chargebee](https://www.chargebee.com/partners-signup/) - Subscription management. Free Plan ($300/mo) with $1M rev. or 2 years with ```DEVDEALS```.
   * [Chargify](https://mbsy.co/36hZHq) - Subscription management software. 2 months free for a 1 year contract with ```DEVDEALS```.
   * [Divvy](https://getdivvy.com/partners/carta/) - Spend management software. 100,000 reward points after first transaction with ```CARTA```.
   * [Expensify](https://www.expensify.com/m/?promoCode=deel) - Global expense tracking software. 3 months free with ```DEEL```.
