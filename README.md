@@ -128,6 +128,7 @@ Table of Contents
   * [Rippling](https://www.rippling.com/request-demo/?utm_medium=technology-partner&utm_source=devdeals&utm_campaign=partner_page_listing&utm_content=6_mo_payroll) - Payroll, Benefits, Computers, Apps and more. 6 months free Rippling payroll with ```DEVDEALS```.
   * [Workable](https://get.workable.com/deel-10?llsd=deel) - Hiring platform for your company or business. 10% off for first year with ```DEEL```.
   * [Zenefits](https://www.zenefits.com/learn/partner/20/?utm_source=partnerreferral&utm_medium=partnerreferral&utm_campaign=devdeals) - Payroll, benefits, HR, time & attendance. Free payroll for 1 year, or 20% off with ```DEVDEALS```.
+## Legal
   * [Docsend](https://try.docsend.com/secret) - Share & manage documents easily and securely.. 90% off your annual plans with ```SECRET```.
   * [Stripe Atlas](https://atlas.stripe.com/invite/TeRCeS) - Business starter service. 50% off on Stripe Atlas with ```SECRET```.
 ## Marketing, CRM & Support
@@ -188,3 +189,4 @@ Table of Contents
   * [Notion](https://notionup.typeform.com/to/qYXezfBW) - Notes, tasks, wikis & more. $1,000 in credits off the Notion Team Plan with ```DEVDEALS```.
   * [Slack](http://slack.com/promo/partner?remote_promo=85111e0d) - A messaging program for workspace. 25% off eligible plan upgrades for 12 months with ```DEVDEALS```.
   * [Twist](https://twist.com/) - Team messaging platform. $300 Twist Unlimited Credits with ```DEELPERKS```.
+
