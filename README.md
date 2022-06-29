@@ -36,6 +36,7 @@ Table of Contents
    * [Security & compliance](#Security-compliance)
    * [Storage and Media Processing](#Storage-and-Media-Processing)
    * [Tools for Teams and Collaboration](#Tools-for-Teams-and-Collaboration)
+
 ## Premium Deals
   * [Airtable](http://airtable.com/cartastartupstack) - Create apps that perfectly fit your team's needs. $2,000 Airtable credit with ```CARTA```.
   * [AWS Activate](https://aws.amazon.com/activate/) - Cloud computing services. Receive $5k, $25k, or $100k in credits  with ```DEVDEALS```.
@@ -74,14 +75,14 @@ Table of Contents
   * [WP Engine](https://shareasale.com/r.cfm?b=1343154&u=2201310&m=41388&urllink=&afftrack=) - Discount service provider. 3 months free on annual plans with ```DEVDEALS```.
 ## Communications & productivity
   * [Commsor](https://app.commsor.com/) - Community operating system. 25% off first year with ```LETSDEEL-25```.
-  * [Customer.io](https://customer.io/startup-program/) - Communication & marketing automation platform. 12 months free Startup Basic Plan with ```DEVDEALS```.
+  * [Customer.io](https://customer.io/startup-program/) - Marketing automation platform. 12 months free Startup Basic Plan with ```DEVDEALS```.
   * [Dialpad](https://www.dialpad.com/startups/carta/) - Voice, video, messages, and meetings. $5,000+ for phone lines & video conferencing with ```CARTA```.
   * [Flow](https://www.getflow.com/?utm_source=joinsecret) - Task and project management software. 35% off any plan for 12 months with ```SECRET35.```.
   * [Google Workspace](https://www.jdoqocy.com/click-100567186-14497232) - Employee productivity suite. 20% off the Standard or Plus plan with ```DEVDEALS```.
   * [GoToMeeting](https://www.gotomeeting.com/purchase?plan=2C0A9755-3D1A-4B19-89B2-2F1D5D6D980B&promotion=gtm_ann_25off_LetsDeel#/) - Fast, reliable, and secure video conferencing. 25% off 1 year of GoToMeeting with ```DEEL```.
   * [Intercom](https://www.intercom.com/early-stage) - Customer relationship management. 95% off Advanced Intercom features with ```DEVDEALS```.
   * [LiveAgent](https://www.liveagent.com/trial/?utm_source=devdeals) - Customer support software. $120 credits on any plan with ```DEVDEALS```.
-  * [LiveChat](https://www.livechat.com/try-livechat/?a=lXVNscwZg&utm_campaign=pp_devdealst&utm_source=PP) - Customer service & chat software. $150 credits (Team, Business & Enterprise Plans) with ```DEVDEALS```.
+  * [LiveChat](https://www.livechat.com/try-livechat/?a=lXVNscwZg&utm_campaign=pp_devdealst&utm_source=PP) - Customer service & chat software. $150 credits with ```DEVDEALS```.
   * [Make](https://www.make.com/en?promo=secret) - A no-code solution for workflow automation. 3 months free on Pro Plan with ```SECRET```.
   * [Twilio Flex](https://twiliostartups.com/flex?s=letsdeel.com) - Cloud communications platform. 5,000 user agent hours worth $5,000. with ```DEEL```.
   * [Yext](https://www.yext.com/try/startup/?utm_source=secret) - A search platform integrated into the customer journey. $35,000 credits on Yext with ```SecretYS2022```.
@@ -125,7 +126,7 @@ Table of Contents
   * [Panther](https://www.panther.co/partners/carta) - Payroll, benefits, taxes, and local compliance. Save with $20,000 in Panther Credits with ```CARTA```.
   * [remote](https://remote.com/partners/carta?utm_campaign=partner-carta%20startup%20stack-042021&utm_source=carta&utm_medium=referral&utm_content=carta21) - Payroll, benefits, HR, and compliance. 1st hire free + 2 months free for additional hires with ```CARTA```.
   * [Rippling](https://www.rippling.com/request-demo/?utm_medium=technology-partner&utm_source=devdeals&utm_campaign=partner_page_listing&utm_content=6_mo_payroll) - Payroll, Benefits, Computers, Apps and more. 6 months free Rippling payroll with ```DEVDEALS```.
-  * [Workable](https://get.workable.com/deel-10?llsd=deel) - Hiring platform for your company or business. Get 10% off annual Workable contract price for first year with ```DEEL```.
+  * [Workable](https://get.workable.com/deel-10?llsd=deel) - Hiring platform for your company or business. 10% off for first year with ```DEEL```.
   * [zenefits](https://www.zenefits.com/learn/partner/20/?utm_source=partnerreferral&utm_medium=partnerreferral&utm_campaign=devdeals) - Payroll, benefits, HR, time & attendance. Free payroll for 1 year, or 20% off with ```DEVDEALS```.
   * [Docsend](https://try.docsend.com/secret) - Share & manage documents easily and securely.. 90% off your annual plans with ```SECRET```.
   * [Stripe Atlas](https://atlas.stripe.com/invite/TeRCeS) - Business starter service. 50% off on Stripe Atlas with ```SECRET```.
@@ -142,7 +143,7 @@ Table of Contents
   * [Salesforce Essentials](https://essentials.salesforce.com/partners/startupoffer/?d=7013y000002UhVU&nc=7013y000001z8e2AAA&utm_medium=general%20partner&utm_source=sfs&utm_campaign=devdeals) - CRM software for SMEs. 50% off Annual Subscription with ```DEVDEALS```.
   * [Sendinblue](https://get.sendinblue.com/partnerships/en/?utm_medium=partnership&utm_source=devdeals) - Email marketing service provider. 75% off on the annual Premium Plan with ```DEVDEALS```.
   * [Snapchat](https://forbusiness.snapchat.com/partners/deel?_sid=DEEL1000&utm_source=deel&utm_medium=PRTREF&utm_campaign=inf&utm_term=website&utm_content=) - Audience engagement with Snapchat. Spend $1,000, get $1,000 with ```DEEL1000```.
-  * [Zendesk](https://www.zendesk.com/campaign/partner-startups/?partner_account=0011E00001mldt9QAA) - CRM & customer support platform. 6 months free Zendesk Support and Sales CRM with ```DEVDEALS```.
+  * [Zendesk](https://www.zendesk.com/campaign/partner-startups/?partner_account=0011E00001mldt9QAA) - CRM & customer support platform. 6 months free Support and Sales with ```DEVDEALS```.
 ## Miscellaneous
   * [Fiverr](https://lp.fiverr.com/business-secret/) - Freelancing platform. 20% off your first order with ```JSECRET20```.
 ## Monitoring
@@ -154,7 +155,7 @@ Table of Contents
   * [Doppler](https://www.doppler.com/partners/deel) - SecretOps Platform. 3 months free on Standard plan with ```DEEL```.
   * [Stytch](https://2fg5qsh42x8.typeform.com/to/hTj0bAL3?utm_source=partnership&utm_medium=referral&utm_campaign=devdeals) - User infrastructure + passwordless authentication. 3 months free on Standard plan with ```DEVDEALS```.
 ## Payment and Billing Integration
-  * [Chargebee](https://www.chargebee.com/partners-signup/) - Billing and subscription management. Free Rise Plan ($300/mo) <$1M revenue or 2 years with ```DEVDEALS```.
+  * [Chargebee](https://www.chargebee.com/partners-signup/) - Billing and subscription management. Free Plan ($300/mo) with $1M rev. or 2 years with ```DEVDEALS```.
   * [Chargify](https://mbsy.co/36hZHq) - Subscription management software. 2 months free for a 1 year contract with ```DEVDEALS```.
   * [Divvy](https://getdivvy.com/partners/carta/) - Spend management software. 100,000 reward points after first transaction with ```CARTA```.
   * [Expensify](https://www.expensify.com/m/?promoCode=deel) - Global expense tracking software. 3 months free with ```DEEL```.
@@ -187,6 +188,7 @@ Table of Contents
   * [Notion](https://notionup.typeform.com/to/qYXezfBW) - Notes, tasks, wikis & more. $1,000 in credits off the Notion Team Plan with ```DEVDEALS```.
   * [Slack](http://slack.com/promo/partner?remote_promo=85111e0d) - A messaging program for workspace. 25% off eligible plan upgrades for 12 months with ```DEVDEALS```.
   * [Twist](https://twist.com/) - Team messaging platform. $300 Twist Unlimited Credits with ```DEELPERKS```.
+
 
 
 
