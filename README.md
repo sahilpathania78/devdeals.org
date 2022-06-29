@@ -6,11 +6,9 @@ This is a definitive list of software (SaaS, PaaS, IaaS, hosting, etc.) with **d
 
 [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re) 
 
-The scope of this list is limited to things that developers and technical entreprenuers (full stack developers, startup founders, etc.) would find useful. There are a countless numbers of services out there so please don't be offended if we reject your contribution.
-
 This repo accepts [Pull Requests](https://github.com/devdeals/devdeals) so please send them to add more services (or by remove ones whose offerings have changed).
 
-*NOTE:* This list is only for as-a-Service offerings, not for self-hosted software. For a service to be eligible it has to have a comepelling deal (ie, discount, etc) and not just a free trial.
+*NOTE:* This list is limited to as-a-Service (not self-hosted) offerings that developers, technical entreprenuers and/or startup founders would find useful. For a service to be eligible it has to be at scale and have a compelling deal or discount (not just a free trial). Please don't be offended if we reject your contribution. 
 
 Table of Contents
 =================
